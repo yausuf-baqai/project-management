@@ -1,0 +1,47 @@
+[
+  {
+    "element": "#createprojectname_driver",
+    "popover": {
+      "title": "Project Name",
+      "description": "Please enter a brief name for your project.",
+      "side": "left",
+      "align": "start"
+    }
+  },
+  {
+    "element": "#createprojectkey_driver",
+    "popover": {
+      "title": "Project Key",
+      "description": "Please enter a brief key for your project.",
+      "side": "left",
+      "align": "start"
+    }
+  },
+  {
+    "element": "#createprojectcategory_driver",
+    "popover": {
+      "title": "Project Category",
+      "description": "Please add a category for your project.",
+      "side": "left",
+      "align": "start"
+    }
+  },
+  {
+    "element": "#createprojectduedate_driver",
+    "popover": {
+      "title": "Project Duedate",
+      "description": "Please enter a due date for your project.",
+      "side": "left",
+      "align": "start"
+    }
+  },
+  {
+    "element": "#createprojectleadassignee_driver",
+    "popover": {
+      "title": "Project Lead Assignee",
+      "description": "Please add lead assignee for your project.",
+      "side": "left",
+      "align": "start"
+    }
+  }
+]

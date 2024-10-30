@@ -1,0 +1,48 @@
+.createCompanyform {
+    padding: 20px 20px;
+    background-color: #FFFFFF;
+    margin: 15px;
+    border-radius: 8px;
+    /* position: absolute; */
+    height: auto;
+    width: auto;
+
+/* Neutral Colors #FFFFFF */
+}
+
+.tools{
+    justify-content: center;
+    gap: 30px;
+}
+
+.cropper{
+    height: 225px;
+    width: 225px;
+}
+
+.cloud {
+    color: rgb(56, 69, 179);
+    width: 145px;
+    height: 20px;
+    margin-top: 13px;
+}
+
+.preview {
+    border-radius: 5px;
+    position: relative;
+    margin-left: 15px;
+  }
+
+.cloud img{
+    height: 20px;
+    width: 20px;
+}
+.cancel_upload-wrapper{
+    width:185px !important;
+}
+.sidebar__height{
+   top:47px !important;
+}
+.blue_btn.upload__btn{
+    margin-left: 20px !important;
+}

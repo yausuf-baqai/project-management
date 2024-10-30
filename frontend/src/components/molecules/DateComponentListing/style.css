@@ -1,0 +1,14 @@
+.formkit__content-wrapper input::placeholder{
+    color: #505050 !important;
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.24px;
+}
+.formkit__content-wrapper .formkit__error-message {
+    left: 9px;
+    bottom: -1px;
+    color: red;
+    font-size: 11px;
+}

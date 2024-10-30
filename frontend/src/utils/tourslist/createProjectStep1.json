@@ -1,0 +1,29 @@
+[
+    {
+      "element": "#createprojectfirst_driver",
+      "popover": {
+        "title": "Create Project",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createblankproject_driver",
+      "popover": {
+        "title": "Create Blank Project",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createprojectusingtemplate_driver",
+      "popover": {
+        "title": "Create Project Using Template",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    }
+  ]

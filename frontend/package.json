@@ -1,0 +1,103 @@
+{
+	"name": "alian-hub-v3",
+	"version": "8.36.0",
+	"private": true,
+	"scripts": {
+		"serve": "vue-cli-service serve",
+		"build": "vue-cli-service build",
+		"lint": "vue-cli-service lint",
+		"build-report": "vue-cli-service build --report"
+	},
+	"dependencies": {
+		"@chargebee/chargebee-js-vue-wrapper": "^0.3.2",
+		"@editorjs/checklist": "^1.6.0",
+		"@editorjs/code": "^2.9.0",
+		"@editorjs/delimiter": "^1.4.0",
+		"@editorjs/editorjs": "^2.30.2",
+		"@editorjs/embed": "^2.7.4",
+		"@editorjs/header": "^2.8.7",
+		"@editorjs/inline-code": "^1.5.0",
+		"@editorjs/link": "^2.6.2",
+		"@editorjs/marker": "^1.4.0",
+		"@editorjs/nested-list": "^1.4.2",
+		"@editorjs/quote": "^2.6.0",
+		"@editorjs/table": "^2.3.0",
+		"@editorjs/warning": "^1.4.0",
+		"@firebase/messaging": "^0.12.4",
+		"@formkit/pro": "^0.117.5",
+		"@formkit/themes": "^0.18.5",
+		"@formkit/validation": "^0.18.5",
+		"@formkit/vue": "^0.18.5",
+		"@fortawesome/fontawesome-svg-core": "^6.5.1",
+		"@fortawesome/free-brands-svg-icons": "^6.5.1",
+		"@fortawesome/free-regular-svg-icons": "^6.5.1",
+		"@fortawesome/free-solid-svg-icons": "^6.5.1",
+		"@fortawesome/vue-fontawesome": "^3.0.5",
+		"@fullcalendar/core": "^6.1.8",
+		"@fullcalendar/daygrid": "^6.1.8",
+		"@fullcalendar/interaction": "^6.1.8",
+		"@fullcalendar/timegrid": "^6.1.8",
+		"@fullcalendar/vue3": "^6.1.8",
+		"@popperjs/core": "^2.11.8",
+		"@vue/compiler-sfc": "^3.2.11",
+		"@vuepic/vue-datepicker": "^5.0.1",
+		"axios": "^1.6.5",
+		"core-js": "^3.30.2",
+		"country-state-city": "^3.2.1",
+		"detectrtc": "^1.4.1",
+		"dotenv": "^16.0.3",
+		"driver.js": "^1.3.1",
+		"firebase": "^10.5.2",
+		"html2pdf.js": "^0.10.1",
+		"markdown-it": "^14.1.0",
+		"mic-recorder-to-mp3": "^2.2.2",
+		"moment": "^2.29.1",
+		"nodemon": "^3.1.0",
+		"realm-web": "git+https://github.com/aliansoftwareteam/realm-web.git",
+		"sweetalert2": "^11.10.5",
+		"v-calendar": "^3.0.3",
+		"vue": "^3.2.13",
+		"vue-advanced-cropper": "^2.8.8",
+		"vue-pdf-embed": "^1.1.6",
+		"vue-router": "^4.0.3",
+		"vue-toast-notification": "^3.0.4",
+		"vue3-editor": "^0.1.1",
+		"vue3-timepicker": "^1.0.0-beta.2",
+		"vuedraggable": "^4.1.0",
+		"vuefire": "^3.1.0",
+		"vuex": "^4.0.2"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.12.16",
+		"@babel/eslint-parser": "^7.12.16",
+		"@vue/cli-plugin-babel": "~5.0.0",
+		"@vue/cli-plugin-eslint": "~5.0.0",
+		"@vue/cli-plugin-router": "~5.0.0",
+		"@vue/cli-plugin-vuex": "~5.0.0",
+		"@vue/cli-service": "~5.0.0",
+		"eslint": "^8.40.0",
+		"eslint-plugin-vue": "^9.11.1"
+	},
+	"eslintConfig": {
+		"root": true,
+		"env": {
+			"node": true
+		},
+		"extends": [
+			"plugin:vue/vue3-essential",
+			"eslint:recommended"
+		],
+		"parserOptions": {
+			"parser": "@babel/eslint-parser"
+		},
+		"rules": {
+			"vue/require-toggle-inside-transition": "off"
+		}
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not dead",
+		"not ie 11"
+	]
+}

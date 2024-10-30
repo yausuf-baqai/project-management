@@ -1,0 +1,25 @@
+.add_permission_project {
+    height: 79px;
+    margin: 20px;
+    padding-left: 20px 
+}
+.main_para{
+    line-height: 20.72px;
+    word-wrap: break-word
+}
+.second_para {
+    line-height: 17.76px;
+    word-wrap: break-word
+}
+.permissionButton{
+    border-radius: 4px;
+    height: 30px;
+    padding: 3px 8px;
+    line-height: 24px;
+}
+.disableButton{
+    pointer-events: none;
+    background-color: #312d2d57;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF !important;
+}

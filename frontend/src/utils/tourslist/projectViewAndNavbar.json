@@ -1,0 +1,101 @@
+[
+    {
+      "element": "#createproject_driver",
+      "popover": {
+        "title": "Create Project",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#time_sheet_driver",
+      "popover": {
+        "title": "Time Sheet",
+        "description": "Accurately track the time spent by users through our various types of Time Sheet Reports like User Time Sheet, Project Time Sheet, Workload Time Sheet, and Tracker Timesheet. Click here to view the Time Sheet Reports.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#user_time_sheet_driver",
+      "popover": {
+        "title": "User Time Sheet",
+        "description": "Accurately track the time spent by users through our various types of Time Sheet Reports like User Time Sheet, Project Time Sheet, Workload Time Sheet, and Tracker Timesheet. Click here to view the Time Sheet Reports.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#project_time_sheet_driver",
+      "popover": {
+        "title": "Project Time Sheet",
+        "description": "Accurately track the time spent by users through our various types of Time Sheet Reports like User Time Sheet, Project Time Sheet, Workload Time Sheet, and Tracker Timesheet. Click here to view the Time Sheet Reports.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#workload_time_sheet_driver",
+      "popover": {
+        "title": "Workload Time Sheet",
+        "description": "Accurately track the time spent by users through our various types of Time Sheet Reports like User Time Sheet, Project Time Sheet, Workload Time Sheet, and Tracker Timesheet. Click here to view the Time Sheet Reports.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#tracker_time_sheet_driver",
+      "popover": {
+        "title": "Tracker Time Sheet",
+        "description": "Accurately track the time spent by users through our various types of Time Sheet Reports like User Time Sheet, Project Time Sheet, Workload Time Sheet, and Tracker Timesheet. Click here to view the Time Sheet Reports.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#company_dropdown_driver",
+      "popover": {
+        "title": "Company",
+        "description": "View all the Companies created and are a part of. Switch between the companies easily by clicking on it.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#chat_driver",
+      "popover": {
+        "title": "Chat",
+        "description": "Communicate with team members in real-time and make quick decisions. Create channels and share information through attachments, voice chat, and text. Click here and start a conversation with members.",
+        "side": "bottom",
+        "align": "end"
+      }
+    },
+    {
+      "element": "#notification_driver",
+      "popover": {
+        "title": "Notifications",
+        "description": "Receive real-time updates about project-related activities, such as task assignments, status changes, comments, and deadlines. Click here to view the received notifications.",
+        "side": "bottom",
+        "align": "end"
+      }
+    },
+    {
+      "element": "#mention_driver",
+      "popover": {
+        "title": "Mentions",
+        "description": "Directly address and communicate with specific individuals within the project management system. Click here to view the received mentions for specific tasks, projects, or discussions.",
+        "side": "bottom",
+        "align": "end"
+      }
+    },
+    {
+      "element": "#profile_menu_driver",
+      "popover": {
+        "title": "Profile",
+        "description": "It includes information about each team member's name, photo, and email. Click here to view the profile, go through Settings, and view the billing history.",
+        "side": "bottom",
+        "align": "end"
+      }
+    }
+  ]

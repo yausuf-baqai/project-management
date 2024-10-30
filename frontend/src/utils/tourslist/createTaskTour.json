@@ -1,0 +1,116 @@
+[
+    {
+      "element": "#createtask_driver",
+      "popover": {
+        "title": "Create Task",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createtaskinput_driver",
+      "popover": {
+        "title": "Create Task",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createtaskstatus_driver",
+      "popover": {
+        "title": "Set Task Type Status",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createtaskassignee_driver",
+      "popover": {
+        "title": "Set Task Assignee",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createtaskduedate_driver",
+      "popover": {
+        "title": "Set Task Duedate",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createtaskpriority_driver",
+      "popover": {
+        "title": "Set Task Priority",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#tasklist_driver",
+      "popover": {
+        "title": "Task List",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#singletaskdisply",
+      "popover": {
+        "title": "Task",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#taskquickmenudriver",
+      "popover": {
+        "title": "Task Quick Menu",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#taskquickmenu_driver",
+      "popover": {
+        "title": "Task Operation",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#tasktoggle_driver",
+      "popover": {
+        "title": "Sutask Toggle",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#subtasklist_driver",
+      "popover": {
+        "title": "Sutask Toggle",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "popover": {
+        "title": "Task Tour End",
+        "description": "Let's embark on an exciting journey! Explore the boundless possibilities waiting to be discovered."
+      }
+    }
+  ]

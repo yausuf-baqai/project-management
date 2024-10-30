@@ -1,0 +1,82 @@
+[
+    {
+      "element": "#projectrightside_driver",
+      "popover": {
+        "title": "Project Search",
+        "description": "Project Search",
+        "side": "right",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectrightsidesearch_driver",
+      "popover": {
+        "title": "Project Search",
+        "description": "Project Search",
+        "side": "right",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectrightsidedropdown_driver",
+      "popover": {
+        "title": "Project Search",
+        "description": "Project Search",
+        "side": "right",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#dd_project_filter_options",
+      "popover": {
+        "title": "Project Search With",
+        "description": "Project Search With Project, Folder, Sprint Name",
+        "side": "right",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projestleftlistfilter_driver",
+      "popover": {
+        "title": "Project Filter With Favourite",
+        "description": "Project Filter With Favourite",
+        "side": "right",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectleftsideassignee_driver",
+      "popover": {
+        "title": "Project Assignee Filter",
+        "description": "Project Assignee Filter",
+        "side": "right",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectleftsidsetting_driver",
+      "popover": {
+        "title": "Project Options",
+        "description": "Project Options for Archied / Unarchived",
+        "side": "right",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectleftlistsingle_driver",
+      "popover": {
+        "title": "Project",
+        "description": "Here you can see your project one by one.",
+        "side": "right",
+        "align": "start"
+      }
+    },
+    {
+      "popover": {
+        "title": "Project Left List View Tour",
+        "description": "Tour End",
+        "side": "right",
+        "align": "start"
+      }
+    }
+  ]

@@ -1,0 +1,20 @@
+[
+    {
+      "element": "#createprojectsavetemp_driver",
+      "popover": {
+        "title": "Save as a Template",
+        "description": "Click here to Save as a Template for the future projects.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createprojectbtn_driver",
+      "popover": {
+        "title": "Create Project",
+        "description": "Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    }
+  ]

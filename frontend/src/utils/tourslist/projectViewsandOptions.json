@@ -1,0 +1,118 @@
+[
+    {
+      "element": "#projectview_driver",
+      "popover": {
+        "title": "Project Views",
+        "description": "Project Views",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#embeddropdown",
+      "popover": {
+        "title": "Add Project View",
+        "description": "You can add new view here.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectviewlist_driver",
+      "popover": {
+        "title": "Add Project View",
+        "description": "You can add new view here.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectviewfiles_driver",
+      "popover": {
+        "title": "View Project Files",
+        "description": "You can add new view here.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectviewaudio_driver",
+      "popover": {
+        "title": "View Project Audio Files",
+        "description": "You can add new view here.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectviewwatch_driver",
+      "popover": {
+        "title": "Project Watcher",
+        "description": "You can add new view here.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectoptions_driver",
+      "popover": {
+        "title": "Project options",
+        "description": "You can add new view here.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectoptionslist_driver",
+      "popover": {
+        "title": "Project options list",
+        "description": "You can add new view here.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectviewfilter_driver",
+      "popover": {
+        "title": "Project Advance Filter",
+        "description": "You can add new view here.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#projectviewfiltersearch_driver",
+      "popover": {
+        "title": "Project Search",
+        "description": "You can add new view here.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#searchfilterdropdown_driver",
+      "popover": {
+        "title": "Project Search Menu",
+        "description": "You can add new view here.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#dd_searchfilterdropdownoptions_driver",
+      "popover": {
+        "title": "Project Search Menu",
+        "description": "You can add new view here.",
+        "side": "bottom",
+        "align": "start"
+      }
+    },
+    {
+      "popover": {
+        "title": "Project View Tour End",
+        "description": "You can add new view here.",
+        "side": "bottom",
+        "align": "start"
+      }
+    }
+  ]

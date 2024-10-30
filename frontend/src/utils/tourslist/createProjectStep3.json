@@ -1,0 +1,38 @@
+[
+    {
+      "element": "#createprojecttasktypetemplate_driver",
+      "popover": {
+        "title": "Project Task Type Templates",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createprojecttasktype_driver",
+      "popover": {
+        "title": "Add New Task Type Template",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createprojecttasktypetemplatestatus_driver",
+      "popover": {
+        "title": "Template Task Type list",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    },
+    {
+      "element": "#createprojecttasktypenew_driver",
+      "popover": {
+        "title": "Add Task Type",
+        "description": "Projects can be easily created, assigned, prioritized, and tracked. Team members can see their responsibilities clearly and stay organized, leading to improved efficiency and productivity. Click here to create a New Project.",
+        "side": "left",
+        "align": "start"
+      }
+    }
+  ]
